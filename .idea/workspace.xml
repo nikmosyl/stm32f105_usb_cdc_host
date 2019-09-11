@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="usbMbeeHost" targetName="usbMbeeHost.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12505f01-d27c-4194-80e7-7e3a2166e81a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1PoZAJTKBHtiMEYvw1OVyAi4MYk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C/C++" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.OCD usbMbeeHost">
+    <configuration name="usbMbeeHost.elf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="usbMbeeHost" TARGET_NAME="usbMbeeHost.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="usbMbeeHost" RUN_TARGET_NAME="usbMbeeHost.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCD usbMbeeHost" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" PASS_PARENT_ENVS_2="true" PROJECT_NAME="usbMbeeHost" TARGET_NAME="usbMbeeHost.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="usbMbeeHost" RUN_TARGET_NAME="usbMbeeHost.elf">
+      <openocd gdb-port="3333" telnet-port="4444" board-config="board/myStm32f105board.cfg" reset-type="RUN" download-type="ALWAYS" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.usbMbeeHost.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.OCD usbMbeeHost" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12505f01-d27c-4194-80e7-7e3a2166e81a" name="Default Changelist" comment="" />
+      <created>1566542265112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566542265112</updated>
+      <workItem from="1566542268411" duration="386000" />
+      <workItem from="1566544961179" duration="102000" />
+      <workItem from="1566545186958" duration="66000" />
+      <workItem from="1566549008998" duration="33000" />
+      <workItem from="1566549045092" duration="732000" />
+      <workItem from="1566571474972" duration="3265000" />
+      <workItem from="1566576252048" duration="1069000" />
+      <workItem from="1566647680088" duration="7844000" />
+      <workItem from="1566664378705" duration="624000" />
+      <workItem from="1566730768127" duration="16423000" />
+      <workItem from="1566831646248" duration="5609000" />
+      <workItem from="1566842927439" duration="3307000" />
+      <workItem from="1566923916534" duration="812000" />
+      <workItem from="1566926854293" duration="12599000" />
+      <workItem from="1567007515583" duration="7355000" />
+      <workItem from="1567167790069" duration="8996000" />
+      <workItem from="1567179341147" duration="9189000" />
+      <workItem from="1567273784731" duration="87000" />
+      <workItem from="1567369463141" duration="341000" />
+      <workItem from="1567455134918" duration="682000" />
+      <workItem from="1567455875668" duration="271000" />
+      <workItem from="1567523197490" duration="4478000" />
+      <workItem from="1567528950863" duration="1545000" />
+      <workItem from="1567531735955" duration="7226000" />
+      <workItem from="1567662475704" duration="262000" />
+      <workItem from="1567663127050" duration="452000" />
+      <workItem from="1567683565324" duration="8571000" />
+      <workItem from="1567694210276" duration="5073000" />
+      <workItem from="1567700170349" duration="10414000" />
+      <workItem from="1567779189076" duration="2625000" />
+      <workItem from="1567782672046" duration="15399000" />
+      <workItem from="1567887334789" duration="2568000" />
+      <workItem from="1567968389619" duration="10327000" />
+      <workItem from="1568216588854" duration="3459000" />
+      <workItem from="1568227225825" duration="81000" />
+      <workItem from="1568227393383" duration="608000" />
+      <workItem from="1568228232229" duration="154000" />
+      <workItem from="1568228389667" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c</url>
+          <line>487</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
+        <watch expression="buffer" language="ObjectiveC" />
+        <watch expression="bufferUSBrecive" language="ObjectiveC" />
+        <watch expression="USBH_MAX_NUM_INTERFACES" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

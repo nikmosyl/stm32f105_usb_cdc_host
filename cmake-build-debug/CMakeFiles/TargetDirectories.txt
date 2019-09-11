@@ -1,0 +1,3 @@
+/Users/nik/CLionProjects/USBMbeeHost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nik/CLionProjects/USBMbeeHost/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nik/CLionProjects/USBMbeeHost/cmake-build-debug/CMakeFiles/usbMbeeHost.elf.dir
